@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JOURN 8016: Adv Quant on JOURN 8006</title>
+    <title>JOURN 8006: Quant on JOURN 8006</title>
     <link>/</link>
-    <description>Recent content in JOURN 8016: Adv Quant on JOURN 8006</description>
+    <description>Recent content in JOURN 8006: Quant on JOURN 8006</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/syllabus/</guid>
-      <description>Course  JOURN 8016: Adv Quant     Tue 3:30 - 6:00pm Lee Hills Hall 214   Instructor  Dr. Michael W. Kearney      Thu 11am - 2:00pm Lee Hills Hall 314   Texts  R for Data Science     O&#39;Reilly Media Wickham &amp; Grolemund   Applied Regression Analysis &amp; Generalized Linear Models (3rd ed.)    CRC Press Hadley Wickham   Course description This course provides an introduction to statistical methods used in journalism/media-related social science research–analytical techniques include simple group comparisons, correlations, factor analysis, and linear models–and previews of several advanced statistical models and tools from data science.</description>
+      <description>Course  JOURN 8006: Quant     Tue 3:30 - 6:00pm Lee Hills Hall 214   Instructor  Dr. Michael W. Kearney      Thu 11am - 2:00pm Lee Hills Hall 314   Texts  R for Data Science     O&#39;Reilly Media Wickham &amp; Grolemund   Applied Regression Analysis &amp; Generalized Linear Models (3rd ed.)    CRC Press Hadley Wickham   Course description This class is designed to introduce graduate students to the most common scientific research methods currently used in journalism and mass communication.</description>
     </item>
     
   </channel>

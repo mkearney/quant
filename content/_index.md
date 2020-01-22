@@ -1,13 +1,13 @@
 ---
-title: 'JOURN 8016: Adv Quant'
-description: "This course provides an introduction to statistical methods used in journalism/media-related social science research–analytical techniques include simple group comparisons, correlations, factor analysis, and linear models–and previews of several advanced statistical models and tools from data science. An introduction to R, an open source [and free] statistical computing environment used in the examples and assignments in this course, will also be provided."
+title: 'JOURN 8006: Quant'
+description: "This class is designed to introduce graduate students to the most common scientific research methods currently used in journalism and mass communication. It is intended to be an introduction to the systematic study of mass communication. Hence, the emphasis of this course is on empirical studies and will examine research that journalists often use and write about. It will also examine research conducted by journalism and mass communication scholars. This course serves as baseline preparation for your continuing work in the graduate program by providing you with a rigorous intellectual experience in how studies are conducted, how to assess their validity and reliability, issues regarding appropriate use of numbers and statistics, and their relationship to the parts of the world they attempt to explain."
 ---
 
-# stat.mikewk.com <img src="/favicon.png" width="180px" align="right" />
+# quant.mikewk.com <img src="static/favicon.png" width="180px" align="right" />
 
-> Course website for **JOURN 8016: Advanced Quantitative Research Methods**, a Fall 2018 graduate course in the School of Journalism at the University of Missouri
+> Course website for **JOURN 8006: Quantitative Research Methods in Journalism**, a graduate course in the School of Journalism at the University of Missouri
 
-The live course website can be found at [stat.mikewk.com](https://stat.mikewk.com). For the source code used to make the site, see [github.com/mkearney/stat](https://github.com/mkearney/stat/).
+The live course website can be found at [stat.mikewk.com](https://quant.mikewk.com). For the source code used to make the site, see [github.com/mkearney/quant](https://github.com/mkearney/quant/).
 
 ## Attribution
 
