@@ -94,7 +94,6 @@ This course uses a plus/minus grading scale. Graduate students
 cannot earn D's, thus earning less than 70% will result in a failing
 grade.
 
-{:.table}
 | Percent     | Grade |
 |-------------|-------|
 | 93.4 - 100  | A     |
@@ -105,7 +104,7 @@ grade.
 | 76.7 - 79.9 | C+    |
 | 73.4 - 76.6 | C     |
 | 70.0 - 73.3 | C-    |
-| 00.0 - 69.9 | F     |
+| 00.0 - 69.9 | F     |  {:.table}
 
 Percentages are exact. I do not offer extra credit or give incompletes. 
 If you have any questions or concerns about an assignment---the nature 
