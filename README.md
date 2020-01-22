@@ -8,8 +8,8 @@
 > University of Missouri
 
 The live course website can be found at
-[stat.mikewk.com](https://quant.mikewk.com). For the source code used to
-make the site, see
+[quant.mikewk.com](https://quant.mikewk.com). For the source code used
+to make the site, see
 [github.com/mkearney/quant](https://github.com/mkearney/quant/).
 
 ## Attribution

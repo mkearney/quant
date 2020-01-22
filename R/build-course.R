@@ -1,8 +1,8 @@
 
 
 
-slides <- "https://stat.mikewk.com/slides/07-slides.html"
-assign <- "https://stat.mikewk.com/assignment/06-hw.Rmd"
+slides <- "https://quant.mikewk.com/slides/07-slides.html"
+assign <- "https://quant.mikewk.com/assignment/06-hw.Rmd"
 
 
 date <- gsub("\\s", "", format(Sys.Date(), "%b %e"))
@@ -89,7 +89,7 @@ while (dir.exists(dd)) {
 
 tmp <- tempfile()
 
-download.file("https://github.com/mkearney/stat/archive/master.zip", 
+download.file("https://github.com/mkearney/quant/archive/master.zip", 
   tmp)
 
 dir.create(dd)
@@ -98,7 +98,7 @@ unzip(tmp, exdir = dd)
 
 unlink(tmp)
 
-file.rename(file.path(dd, "stat-master"), file.path(dd, "stat"))
+file.rename(file.path(dd, "quant-master"), file.path(dd, "quant"))
 
 ## open with Rstudio
-browseURL(file.path(dd, "stat", "stat.Rproj"))
+browseURL(file.path(dd, "quant", "quant.Rproj"))

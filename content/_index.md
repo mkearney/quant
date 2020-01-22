@@ -7,7 +7,7 @@ description: "This class is designed to introduce graduate students to the most 
 
 > Course website for **JOURN 8006: Quantitative Research Methods in Journalism**, a graduate course in the School of Journalism at the University of Missouri
 
-The live course website can be found at [stat.mikewk.com](https://quant.mikewk.com). For the source code used to make the site, see [github.com/mkearney/quant](https://github.com/mkearney/quant/).
+The live course website can be found at [quant.mikewk.com](https://quant.mikewk.com). For the source code used to make the site, see [github.com/mkearney/quant](https://github.com/mkearney/quant/).
 
 ## Attribution
 
