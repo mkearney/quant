@@ -80,7 +80,6 @@ about the paper will be forthcoming.
 ### Breakdown
 The following is a percentage breakdown of the grades in this course:
 
-{:.table}
 | Assignment            | Percent  |
 |-----------------------|:--------:|
 | Midterm Exam          | 25%      |
@@ -88,6 +87,7 @@ The following is a percentage breakdown of the grades in this course:
 | Research presentation | 25%      |
 | Homework assignments  | 25%      |
 | **Total**             | **100%** |
+{: .table }
 
 ### Scale
 This course uses a plus/minus grading scale. Graduate students
