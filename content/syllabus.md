@@ -87,14 +87,14 @@ The following is a percentage breakdown of the grades in this course:
 | Research presentation | 25%      |
 | Homework assignments  | 25%      |
 | **Total**             | **100%** |
-{: .table }
+{:.table }
 
 ### Scale
 This course uses a plus/minus grading scale. Graduate students
 cannot earn D's, thus earning less than 70% will result in a failing
 grade.
 
-<div class="table">
+<div class="table"></div>
 
 | Percent     | Grade |
 |-------------|-------|
@@ -107,8 +107,6 @@ grade.
 | 73.4 - 76.6 | C     |
 | 70.0 - 73.3 | C-    |
 | 00.0 - 69.9 | F     |
-
-</div>
 
 Percentages are exact. I do not offer extra credit or give incompletes. 
 If you have any questions or concerns about an assignment---the nature 
