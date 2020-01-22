@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JOURN 8016: Adv Quant on JOURN 8006</title>
+    <link>/</link>
+    <description>Recent content in JOURN 8016: Adv Quant on JOURN 8006</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Readings</title>
+      <link>/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/</guid>
+      <description>1: Quantitative research Research design  Fox Ch. 1: Statistical models and social science, 1-11 Babbie Ch. 4: Research design, 90-123 Babbie Ch. 5: Conceptualization, operationalization, and measurement, 124-159 Hayes Ch. 1: Statistics and communication science, 1-15 Hayes Ch. 2: Fundamentals of measurement, 16-30   2. Descriptive statistics Descriptives  Carey Ch. 3: Measurement and Transformations Carey Ch. 4: Descriptive Statistics &amp;amp; Terminology Fox Ch. 3: Examining data, 28-54 Fox Ch.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>Schedule Note: Schedule subject to change at instructor&#39;s discretion.  Date Lesson Reading Assign. Slides Exam   2018-08-21 Quantitative research       2018-08-28 Descriptive statistics       2018-09-04 Hypothesis tests and group comparisons       2018-09-11 Correlations and factor analysis       2018-09-18 Data wrangling       2018-09-25 Exam 1       2018-10-02 Linear model - regression       2018-10-09 Linear model - ANOVA       2018-10-16 Linear model - diagnostics       2018-10-23 Generalized linear models       2018-10-30 Longitudinal models       2018-11-06 Text mining       2018-11-13 NO CLASS       2018-11-27 Data science       2018-12-04 Exam 2       </description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>Course  JOURN 8016: Adv Quant     Tue 3:30 - 6:00pm Lee Hills Hall 214   Instructor  Dr. Michael W. Kearney      Thu 11am - 2:00pm Lee Hills Hall 314   Texts  R for Data Science     O&#39;Reilly Media Wickham &amp; Grolemund   Applied Regression Analysis &amp; Generalized Linear Models (3rd ed.)    CRC Press Hadley Wickham   Course description This course provides an introduction to statistical methods used in journalism/media-related social science research–analytical techniques include simple group comparisons, correlations, factor analysis, and linear models–and previews of several advanced statistical models and tools from data science.</description>
+    </item>
+    
+  </channel>
+</rss>

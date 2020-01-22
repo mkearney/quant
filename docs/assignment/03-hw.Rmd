@@ -1,0 +1,53 @@
+---
+title: "Homework #3"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+The data set `d`, entered below, provides estimates on media use, health info, and education levels.
+
+```{r}
+## pres approval rating data
+d <- data.frame(
+  media_use = c(3, 2, 5, 7, 1, 2, 5, 4, 3, 9, 2),
+  health_info = c(0, 2, 1, 4, 2, 6, 1, 3, 2, 4, 2),
+  edu = c(3, 2, 4, 2, 1, 5, 2, 3, 4, 5, 3)
+)
+```
+
+1. Calculate Pearson's correlation coefficient between media use and health information.
+
+```{r}
+## your code goes here
+cor(d$media_use, d$health_info, method = "pearson")
+```
+
+2. Calculate the rank-order correlation coefficient between media use and health information. 
+
+```{r}
+## your code goes here
+cor(d$media_use, d$health_info, method = "spearman")
+```
+
+3. Conduct a signifance test of the correlation between media use and health information. Use the appropriate method.
+
+```{r}
+## your code goes here
+cor.test(d$media_use, d$health_info)
+```
+
+4. Create a correlation matrix containing all three variables
+
+```{r}
+## your code goes here
+
+```
+
+5. Visualize the correlations
+
+```{r}
+## your code goes here
+
+```
+

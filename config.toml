@@ -1,0 +1,80 @@
+baseurl = "https://quant.mikewk.com/"
+languageCode = "en-US"
+defaultContentLanguage = "en-US"
+title = "JOURN 8006"
+theme = "material"
+# # disqusShortname = ""
+# # googleAnalytics = ""
+paginate = 7
+relativeurls = true
+publishDir = "docs"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+post = "/:year/:month/:slug/"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+archive = "archives"
+
+[author]
+name = "Michael W. Kearney"
+bio = ""
+job = "Assistant Professor, Journalism Studies | Data Science & Analytics"
+location = "University of Missouri"
+gravatarEmail = "mike.wayne.kearney@gmail.com"
+# Your profile picture
+#  picture = ""
+twitter = "kearneymw"
+
+# Menu Configuration
+[[menu.main]]
+weight = 1
+identifier = "home"
+name = "Home"
+pre = '<i class="fas fa-home fa-lg"></i>'
+url = "/"
+[[menu.main]]
+weight = 3
+identifier = "syllabus"
+name = "Syllabus"
+pre = '<i class="fas fa-file-alt fa-lg"></i>'
+url = "/syllabus"
+[[menu.main]]
+weight = 4
+identifier = "schedule"
+name = "Schedule"
+pre = '<i class="fas fa-calendar-alt fa-lg"></i>'
+url = "/schedule"
+[[menu.main]]
+weight = 5
+identifier = "reading"
+name = "Readings"
+pre = '<i class="fas fa-book-open fa-lg"></i>'
+url = "/reading"
+
+[[menu.footer]]
+weight = 1
+identifier = "Mizzou"
+name = "School of Journalism"
+pre = '<i class="button-icon fas fa-university fa-2x"></i>'
+url = "https://journalism.missouri.edu"
+[[menu.footer]]
+weight = 2
+name = "R/RStudio"
+pre = '<i class="icon-rlogo" style="font-size:150%"></i>'
+url = "install-rstats"
+[[menu.footer]]
+weight = 3
+identifier = "GitHub"
+name = "GitHub"
+pre = '<i class="button-icon fab fa-github fa-2x"></i>'
+url = "https://github.com/mkearney/quant/"
+
+
+[params]
+dateFormat = "January 2, 2006"
+background = "/img/bg2.png"
+favicon = "/favicon.ico"
+
