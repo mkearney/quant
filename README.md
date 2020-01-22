@@ -1,16 +1,16 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# stat.mikewk.com <img src="static/favicon.png" width="180px" align="right" />
+# quant.mikewk.com <img src="static/favicon.png" width="180px" align="right" />
 
-> Course website for **JOURN 8016: Advanced Quantitative Research
-> Methods**, a Fall 2018 graduate course in the School of Journalism at
-> the University of Missouri
+> Course website for **JOURN 8006: Quantitative Research Methods in
+> Journalism**, a graduate course in the School of Journalism at the
+> University of Missouri
 
 The live course website can be found at
-[stat.mikewk.com](https://stat.mikewk.com). For the source code used to
+[stat.mikewk.com](https://quant.mikewk.com). For the source code used to
 make the site, see
-[github.com/mkearney/stat](https://github.com/mkearney/stat/).
+[github.com/mkearney/quant](https://github.com/mkearney/quant/).
 
 ## Attribution
 
