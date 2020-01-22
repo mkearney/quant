@@ -1,6 +1,6 @@
 lessons:
   - date: "2020-01-21"
-    title: "Intro to quantitative research"
+    title: "Intro to Quantitative Research"
     reading: "#1-quantitative-research"
     slides: "01-slides.pdf"
   - date: "2020-01-28"
@@ -38,7 +38,7 @@ lessons:
   - date: "2020-03-17"
     title: "Midterm Exam"
     exam: "#"
-#    assignment: "07-hw.Rmd"
+    assignment: "07-hw.Rmd"
 #    slides: "08-slides.html"
   - date: "2020-03-24"
     title: "SPRING BREAK"
