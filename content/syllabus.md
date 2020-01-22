@@ -6,6 +6,7 @@ markup: mmark
 
 {{% syllabus %}}
 
+{:.table}
 |                |                         |
 |----------------|-------------------------|
 | Days \& Times: | Tu 3:30PM - 6:00PM      |
@@ -79,6 +80,7 @@ about the paper will be forthcoming.
 ### Breakdown
 The following is a percentage breakdown of the grades in this course:
 
+{:.table}
 | Assignment            | Percent  |
 |-----------------------|:--------:|
 | Midterm Exam          | 25%      |
@@ -92,6 +94,7 @@ This course uses a plus/minus grading scale. Graduate students
 cannot earn D's, thus earning less than 70% will result in a failing
 grade.
 
+{:.table}
 | Percent     | Grade |
 |-------------|-------|
 | 93.4 - 100  | A     |
